@@ -1,4 +1,4 @@
-# express-telegram-bot 
+# express-telegrambot 
 
 Trying out using cron for users to schedule reminders
 
